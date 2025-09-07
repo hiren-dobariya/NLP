@@ -18,12 +18,19 @@ These vectors capture meaning and context so the model can process them.
   <li>These tokens are then used by computers (or machine learning models) to understand and process text.</li>
 </ul>
 
+<ul>
+  <li>Corpus</li>
+  <li>Documents</li>
+</ul>
+
 
 <h3>What is Lemmatization?</h3>
 Lemmatization is the process of reducing a word to its base form (called lemma) while keeping the meaning correct.
 Word: "playing" → Lemma: "play",
 Word: "children" → Lemma: "child",
 Word: "toys" → Lemma: "toy",
+
+
 
 
 
